@@ -53,6 +53,7 @@ const Todo = () => {
       })
     );
   }
+  //This was how the tasks were displayed initially in just one list
   // const myTasks = tasks.map((task, id) => (
   //   <li className={task.isComplete ? "Done" : "Task"} key={task.id}>
   //     {task.Text}
